@@ -1,0 +1,29 @@
+.main-container {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.sidebar {
+  background-color: rgba(0, 0, 0, 0.4);
+  height: 95vh;
+}
+
+.img-container {
+  text-align: center;
+  justify-content: space-between;
+  background-color: grey;
+  border: 1px solid rgba(0, 0, 0, 0.4);
+  width: 30%;
+  height: 90vh;
+}
+
+.detail-container {
+  display: flex;
+  flex-direction: column;
+  /* overflow: auto; */
+  overflow-x: hidden;
+  background-color: grey;
+  width: 60%;
+  height: 95vh;
+}

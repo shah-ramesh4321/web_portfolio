@@ -1,0 +1,20 @@
+.services {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+.first-row {
+  display: flex;
+  justify-content: space-around;
+}
+
+.second-row {
+  display: flex;
+  justify-content: space-around;
+}
+
+.services h3 {
+  position: relative;
+  left: 20px;
+}

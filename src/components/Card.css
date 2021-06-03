@@ -1,0 +1,21 @@
+.card-container {
+  width: 28%;
+  height: fit-content;
+  text-align: left;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  box-sizing: content-box;
+  padding: 5px;
+  margin: 10px;
+}
+
+.service-logo img {
+  width: 20px;
+  height: 20px;
+  margin-bottom: 10px;
+  /* filter: invert(100%); */
+}
+
+.card-title {
+  color: white;
+}
